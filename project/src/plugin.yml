@@ -1,0 +1,7 @@
+main: amongus.spigot.AmongUs.Main
+name: AmongUsPlugin
+version:  1.0.0
+author: KunalBhat
+
+commands:
+  Init:
